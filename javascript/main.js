@@ -579,6 +579,7 @@ function background() {
             grabCursor: !0,
             allowTouchMove: !0,
             direction: "horizontal",
+            mousewheelControl: true,
             slidesPerView: 1,
             centeredSlides: !0,
             slideToClickedSlide: !0,
