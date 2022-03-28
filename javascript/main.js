@@ -576,7 +576,7 @@ function background() {
         const t = e(".main-slider")
           , n = e.extend(!0, {
             speed: 1500,
-            grabCursor: false,
+            grabCursor: !0,
             allowTouchMove: !0,
             direction: "horizontal",
             slidesPerView: 1,
